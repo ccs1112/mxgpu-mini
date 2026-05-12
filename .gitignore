@@ -18,7 +18,3 @@ modules.builtin
 
 # Build dirs
 build/
-
-# Private learning scaffolding
-EXERCISES.md
-.solutions/
